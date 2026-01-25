@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B+My+name+is+Isabelle;and+I'm+an+Data+Engineer" alt="Typing SVG" />
 
-**Building ETL pipelines | Real-time streaming | Data Warehouse**
+**Building ETL pipelines | Web scraping | Data Warehouse**
 
 `Python` `SQL` `Airflow` `Spark` `Kafka` `AWS` `Docker`
 
