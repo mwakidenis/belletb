@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B+My+name+is+Isabelle" alt="Typing SVG" />
 
-**Building ETL pipelines | Web scraping | Data Warehouse**
-
 `Python` `SQL` `Airflow` `Spark` `Kafka` `AWS` `Docker`
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-torres-bassi/)
