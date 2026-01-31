@@ -6,7 +6,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:belletbassi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=google-chrome&logoColor=white)](your-portfolio)
 
-<img src="https://github-readme-stats.vercel.app/api?username=belletb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belletb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-
 </div>
