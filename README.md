@@ -2,23 +2,23 @@
 
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8C8DC&text=Hi%20I'm%20Isabelle%20✨&fontColor=ffffff&fontSize=36" width="100%" />
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8C8DC&text=Hi%20I'm%20Isabelle%20✨&fontColor=ffffff&fontSize=36" width="100%" />
 
-<!-- Typing SVG intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=E75480&center=true&vCenter=true&width=500&lines=UI%2FUX+Focused+Fullstack+Developer;DDesigning+Beautiful+Digital+Experiences;Where+Code+Meets+Creativity+💗" />
+  <!-- Typing SVG intro (original) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=E75480&center=true&vCenter=true&width=500&lines=UI%2FUX+Focused+Fullstack+Developer;DDesigning+Beautiful+Digital+Experiences;Where+Code+Meets+Creativity+💗" />
 
-<!-- Social badges -->
-<br/>
-<a href="https://www.linkedin.com/in/isabelle-torres-bassi/">
-  <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:belletbassi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-D291BC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <!-- Social badges (original) -->
+  <br/>
+  <a href="https://www.linkedin.com/in/isabelle-torres-bassi/">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:belletbassi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-D291BC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
 </div>
 
@@ -94,6 +94,38 @@ I’m **Isabelle** — a developer who blends **design sensitivity** with **tech
 - Motion design for the web  
 - Accessible component systems  
 - Design systems & scalable frontends  
+
+---
+
+<!-- New merged section with updated typing SVG & badges -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=c8a2c8&center=true&vCenter=true&width=500&lines=Hi!+I'm+Isabelle+✨;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/isabelle-torres-bassi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:belletbassi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- GitHub summary cards -->
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belletb&theme=tokyonight" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belletb&theme=tokyonight" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belletb&theme=tokyonight" height="180"/>
+
+</div>
 
 ---
 
