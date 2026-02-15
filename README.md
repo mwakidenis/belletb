@@ -67,17 +67,6 @@ I’m **Isabelle** — a developer who blends **design sensitivity** with **tech
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=belletb&show_icons=true&theme=rose_pine&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belletb&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
-
----
 
 ## 📈 Contributions & Dark Cards
 
@@ -85,6 +74,9 @@ I’m **Isabelle** — a developer who blends **design sensitivity** with **tech
 
 <img src="https://ghchart.rshah.org/belletb?bg_color=ffffff&color=E75480&line=F8A5C2&point=F06292" alt="Isabelle's GitHub Contribution Graph" width="100%"/>
 <br/>
+
+## 📊 GitHub Stats
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belletb&theme=tokyonight" height="180"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belletb&theme=tokyonight" height="180"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belletb&theme=tokyonight" height="180"/>
