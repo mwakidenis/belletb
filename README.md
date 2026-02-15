@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8C8DC&text=Hi%20I'm%20Isabelle%20✨&fontColor=ffffff&fontSize=36" width="100%" />
 
 <!-- Typing SVG intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=E75480&center=true&vCenter=true&width=500&lines=UI%2FUX+Focused+Fullstack+Developer;Designing+Beautiful+Digital+Experiences;Where+Code+Meets+Creativity+💗" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=E75480&center=true&vCenter=true&width=500&lines=UI%2FUX+Focused+Fullstack+Developer;DDesigning+Beautiful+Digital+Experiences;Where+Code+Meets+Creativity+💗" />
 
 <!-- Social badges -->
 <br/>
