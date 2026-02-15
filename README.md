@@ -5,7 +5,7 @@
   <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F8C8DC&text=Hi%20I'm%20Isabelle%20✨&fontColor=ffffff&fontSize=36" width="100%" />
 
-  <!-- Typing SVG intro -->
+  <!-- Top Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=c8a2c8&center=true&vCenter=true&width=500&lines=Hi!+I'm+Isabelle+✨;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
   <!-- Social badges -->
@@ -67,11 +67,27 @@ I’m **Isabelle** — a developer who blends **design sensitivity** with **tech
 
 ---
 
-## 📈 Contributions
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=belletb&show_icons=true&theme=rose_pine&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belletb&layout=compact&theme=rose_pine&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contributions & Dark Cards
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/belletb?bg_color=ffffff&color=E75480&line=F8A5C2&point=F06292" alt="Isabelle's GitHub Contribution Graph" width="100%"/>
+<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belletb&theme=tokyonight" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belletb&theme=tokyonight" height="180"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belletb&theme=tokyonight" height="180"/>
 
 </div>
 
